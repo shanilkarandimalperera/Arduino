@@ -41,4 +41,5 @@ void loop() {
   digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
   delay(100);
   //Edited by shanilka randimal perera
+  //Edited by shanilka randimal perera
 }
